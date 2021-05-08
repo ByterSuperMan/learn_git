@@ -1,0 +1,3 @@
+[submodule "StudyDemo"]
+	path = StudyDemo
+	url = git@github.com:ByterSuperMan/StudyDemo.git
